@@ -1,0 +1,13 @@
+{
+	"watch-run.targetList": [
+
+		{
+			"target": "**/*.html",
+			"task": "build_html"
+		},
+		{
+			"target": "**/*.scss",
+			"task": "build_html"
+		}
+	]
+}
